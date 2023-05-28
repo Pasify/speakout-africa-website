@@ -86,3 +86,9 @@ body {
   border-top-right-radius: 10rem;
 }
 
+@media (min-width: 300px) {
+  #accordion-1 {
+    padding: 0 2rem;
+  }
+}
+
